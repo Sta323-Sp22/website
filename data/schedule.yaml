@@ -25,7 +25,7 @@ schedule:
   notes: 
 
 - week: 1
-  day: 3
+  day: 5
   lecture: "Introduction to git"
   slides:
   screencast: 
