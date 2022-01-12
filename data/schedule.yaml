@@ -16,7 +16,7 @@ schedule:
   day: 3
   lecture: "Types and Control Flow in R"
   slides: Lec02
-  screencast: 
+  screencast: https://youtu.be/XFjFOVgorlM
   readings:
   - text: Tidyverse style guide
     link: https://style.tidyverse.org/
