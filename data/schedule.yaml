@@ -5,7 +5,7 @@ schedule:
   day: 5
   lecture: "Welcome & Syllabus"
   slides: Lec01
-  screencast: 
+  screencast: https://youtu.be/I1YNcxsnn4g
   notes: <a href="https://duke.zoom.us/j/96746837677">Zoom link</a> - Duke account req.
 
 - week: 1
