@@ -26,8 +26,8 @@ schedule:
 
 - week: 1
   day: 5
-  lecture: "Introduction to git"
-  slides:
+  lecture: "Introduction to Git & GitHub"
+  slides: Lec03
   screencast: 
   readings:
   - text: Happy Git and GitHub
