@@ -32,7 +32,7 @@ schedule:
   readings:
   - text: Happy Git and GitHub
     link: http://happygitwithr.com/
-  notes:
+  notes: <a href="https://duke.zoom.us/j/96746837677">Zoom link</a> - Duke account req.
 
 - week: 2
   day: 3
