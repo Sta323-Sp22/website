@@ -28,7 +28,7 @@ schedule:
   day: 5
   lecture: "Introduction to Git & GitHub"
   slides: Lec03
-  screencast: 
+  screencast: https://youtu.be/xtyyDFztJgs
   readings:
   - text: Happy Git and GitHub
     link: http://happygitwithr.com/
