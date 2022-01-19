@@ -40,7 +40,7 @@ schedule:
   slides: Lec04
   screencast: 
   readings:
-  - text: Missing Values
+  - text: Adv-R - Missing Values
     link: https://adv-r.hadley.nz/vectors-chap.html?q=missing#missing-values
   notes:
   
