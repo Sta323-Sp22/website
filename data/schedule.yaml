@@ -38,7 +38,7 @@ schedule:
   day: 3
   lecture: "NAs, functions, and loops"
   slides: Lec04
-  screencast: 
+  screencast: https://youtu.be/cb9ov8wwPBU
   readings:
   - text: Adv-R - Missing Values
     link: https://adv-r.hadley.nz/vectors-chap.html?q=missing#missing-values
