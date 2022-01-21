@@ -48,7 +48,7 @@ schedule:
   day: 5
   lecture: "Lists, Attributes, & S3"
   slides: Lec05
-  screencast: 
+  screencast: https://youtu.be/xQ3xxezDGYE
   readings:
   - text: Adv R - OO Field Guide - S3
     link: http://adv-r.had.co.nz/OO-essentials.html#s3
