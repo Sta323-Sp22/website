@@ -67,7 +67,7 @@ schedule:
 - week: 3
   day: 5
   lecture: "Tidy data & dplyr"
-  slides:
+  slides: Lec07
   screencast: 
   notes:
   readings:
