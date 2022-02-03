@@ -83,7 +83,7 @@ schedule:
   day: 3
   lecture: "tidyr"
   slides: Lec08
-  screencast: 
+  screencast: https://youtu.be/kfhKYVd7AzY
   readings:
   - text: tidyr pivoting
     link: https://tidyr.tidyverse.org/articles/pivot.html
