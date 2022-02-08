@@ -76,7 +76,7 @@ schedule:
   - text: R4DS - tidy data
     link: http://r4ds.had.co.nz/tidy-data.html
   - text: Data transformation cheatsheet
-    link: https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf
+    link: https://github.com/rstudio/cheatsheets/raw/main/data-transformation.pdf
   notes: 
 
 - week: 4
@@ -102,7 +102,7 @@ schedule:
   - text: R4DS - Iteration
     link: http://r4ds.had.co.nz/iteration.html
   - text: purrr cheatsheet
-    link: https://github.com/rstudio/cheatsheets/raw/master/purrr.pdf
+    link: https://github.com/rstudio/cheatsheets/raw/main/purrr.pdf
   notes: 
 
 - week: 5
@@ -132,7 +132,7 @@ schedule:
   screencast: 
   readings:
   - text: stringr Cheat Sheet, 
-    link: https://github.com/rstudio/cheatsheets/blob/master/strings.pdf
+    link: https://github.com/rstudio/cheatsheets/blob/main/strings.pdf
   - text: stringr vignette
     link: https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html
   - text: R4DS - Strings
