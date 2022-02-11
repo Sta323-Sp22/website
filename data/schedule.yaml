@@ -120,7 +120,7 @@ schedule:
 - week: 5
   day: 5
   lecture: "Visualization Design"
-  slides:
+  slides: Lec11
   screencast: 
   readings:
   notes:
