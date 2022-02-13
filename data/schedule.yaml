@@ -121,9 +121,9 @@ schedule:
   day: 5
   lecture: "Visualization Design"
   slides: Lec11
-  screencast: 
+  screencast: https://youtu.be/qLlgaSEPwvc
   readings:
-  notes:
+  notes: Screencast is incomplete
 
 - week: 6
   day: 3
