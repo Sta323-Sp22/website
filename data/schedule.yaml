@@ -149,8 +149,29 @@ schedule:
     link: https://rvest.tidyverse.org/articles/articles/selectorgadget.html
   notes: 
 
+- week: 7
+  day: 3
+  lecture: "filesystems, Dennys & LQ scraping"
+  screencast: 
+  slides:
+  readings:
+  - text: Project-oriented workflow
+    link: https://rstats.wtf/project-oriented-workflow.html
+  notes: 
 
 - week: 7
+  day: 5
+  lecture: "make"
+  slides:
+  screencast: 
+  readings:
+  - text: Minimal make
+    link: https://kbroman.org/minimal_make/
+  - text: Why use make
+    link: https://bost.ocks.org/mike/make/
+  notes: 
+
+- week: 8
   day: 3
   lecture: "Web APIs"
   slides:
@@ -161,27 +182,6 @@ schedule:
   - text: httr - Best practices for API packages
     link: https://httr.r-lib.org/articles/api-packages.html
 
-- week: 7
-  day: 5
-  lecture: "filesystems, Dennys & LQ scraping"
-  screencast: 
-  slides:
-  readings:
-  - text: Project-oriented workflow
-    link: https://rstats.wtf/project-oriented-workflow.html
-  notes: 
-
-- week: 8
-  day: 3
-  lecture: "make"
-  slides:
-  screencast: 
-  readings:
-  - text: Minimal make
-    link: https://kbroman.org/minimal_make/
-  - text: Why use make
-    link: https://bost.ocks.org/mike/make/
-  notes: 
 
 - week: 8
   day: 5
