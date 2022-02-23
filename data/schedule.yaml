@@ -151,7 +151,7 @@ schedule:
 
 - week: 7
   day: 3
-  lecture: "filesystems & Dennys & LQ scraping"
+  lecture: "filesystems & Dennys + LQ scraping"
   screencast: 
   slides: Lec14
   readings:
