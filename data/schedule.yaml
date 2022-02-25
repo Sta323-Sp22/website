@@ -162,7 +162,7 @@ schedule:
 - week: 7
   day: 5
   lecture: "make"
-  slides:
+  slides: Lec15
   screencast: 
   readings:
   - text: Minimal make
