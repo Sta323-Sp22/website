@@ -163,7 +163,7 @@ schedule:
   day: 5
   lecture: "make"
   slides: Lec15
-  screencast: 
+  screencast: https://youtu.be/abpJbPb9_p4
   readings:
   - text: Minimal make
     link: https://kbroman.org/minimal_make/
