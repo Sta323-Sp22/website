@@ -174,7 +174,7 @@ schedule:
 - week: 8
   day: 3
   lecture: "Web APIs"
-  slides:
+  slides: Lec16
   screencast: 
   readings:
   - text: httr2
