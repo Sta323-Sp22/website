@@ -175,7 +175,7 @@ schedule:
   day: 3
   lecture: "Web APIs"
   slides: Lec16
-  screencast: 
+  screencast: https://youtu.be/JaPsJ48WTPI
   readings:
   - text: httr2
     link: https://httr2.tidyverse.org/
