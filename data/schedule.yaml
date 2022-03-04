@@ -185,7 +185,15 @@ schedule:
 
 - week: 8
   day: 5
-  lecture: "TBD"
+  lecture: "Profiling & Parallelization"
+  slides: Lec17
+  screencast: 
+  readings:
+  - text: "parallel Vignettes"
+    link: https://stat.ethz.ch/R-manual/R-devel/library/parallel/doc/parallel.pdf
+  - text: "furrr"
+    link: https://furrr.futureverse.org/
+  notes: 
 
 - week: 9
   day: 2
@@ -248,14 +256,10 @@ schedule:
 
 - week: 12
   day: 3
-  lecture: "Profiling & Parallelization"
+  lecture: "TBD"
   slides:
   screencast: 
   readings:
-  - text: "parallel Vignettes"
-    link: https://stat.ethz.ch/R-manual/R-devel/library/parallel/doc/parallel.pdf
-  - text: "furrr"
-    link: https://furrr.futureverse.org/
   notes: 
 
 
