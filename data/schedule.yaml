@@ -210,6 +210,28 @@ schedule:
 
 - week: 10
   day: 3
+  lecture: "Shiny"
+  slides: Lec18
+  screencast: 
+  readings:
+  - text: Shiny Docs & Gallery
+    link: http://shiny.rstudio.com/
+  - text: Widget Gallery
+    link: http://shiny.rstudio.com/gallery/widget-gallery.html
+  - text: Mastering Shiny
+    link: https://mastering-shiny.org/
+  notes: 
+
+- week: 10
+  day: 5
+  lecture: "Shiny - ABC"
+  screencast: 
+  readings: ""
+  notes: 
+
+
+- week: 11
+  day: 3
   lecture: "Databases & SQL"
   slides:
   screencast: 
@@ -221,7 +243,7 @@ schedule:
   notes: 
   
 
-- week: 10
+- week: 11
   day: 5
   lecture: "SQL <--> dplyr"
   slides:
@@ -233,26 +255,7 @@ schedule:
     link: https://cran.r-project.org/web/packages/dbplyr/vignettes/dbplyr.html
 
 
-- week: 11
-  day: 3
-  lecture: "Shiny"
-  slides:
-  screencast: 
-  readings:
-  - text: Shiny Docs & Gallery
-    link: http://shiny.rstudio.com/
-  - text: Widget Gallery
-    link: http://shiny.rstudio.com/gallery/widget-gallery.html
-  - text: Mastering Shiny
-    link: https://mastering-shiny.org/
-  notes: 
 
-- week: 11
-  day: 5
-  lecture: "Shiny - ABC"
-  screencast: 
-  readings: ""
-  notes: 
 
 - week: 12
   day: 3
