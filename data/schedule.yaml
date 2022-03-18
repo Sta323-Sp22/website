@@ -212,7 +212,7 @@ schedule:
   day: 3
   lecture: "Shiny"
   slides: Lec18
-  screencast: 
+  screencast: https://youtu.be/LtI6gRq_a9s
   readings:
   - text: Shiny Docs & Gallery
     link: http://shiny.rstudio.com/
