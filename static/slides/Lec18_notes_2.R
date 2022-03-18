@@ -1,24 +1,7 @@
+library(tidyverse)
 library(shiny)
-library(dplyr)
-library(ggplot2)
 
-## Beta-Binomial
-
-# y ~ Binom(n, p)
-#
-# y = # heads
-# n = # flips
-# p = prob. of heads
-#
-# p ~ Beta(a, b)
-#
-# a = # of previous successes
-# b = # of previous failures
-#
-# p | y ~ Beta(a + y, b + n - y)
-#
-
-## Shiny
+# Shiny 2
 
 pal = c("#7fc97f", "#beaed4", "#dfc086")
 pal_names = c("Green", "Purple", "Orange")
@@ -128,10 +111,10 @@ shinyApp(
           likelihood = dbinom(input$x, size = input$n, prob = p),
           posterior = dbeta(p, input$alpha + input$x, input$beta + input$n - input$x)
         ) %>%
-        tidyr::gather(
-          distribution,
-          density,
-          prior, likelihood, posterior
+        pivot_longer(
+          cols = -p,
+          names_to = "distribution",
+          values_to = "density"
         ) %>%
         mutate(
           distribution = forcats::as_factor(distribution)
