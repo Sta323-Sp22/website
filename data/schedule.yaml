@@ -234,7 +234,7 @@ schedule:
   day: 3
   lecture: "Databases, SQL, & dplyr"
   slides: Lec20
-  screencast: 
+  screencast: https://youtu.be/cBsqxJHtYF4
   readings:
   - text: SQL Translation
     link: https://cran.r-project.org/web/packages/dbplyr/vignettes/sql-translation.html
