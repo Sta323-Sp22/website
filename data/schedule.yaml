@@ -246,7 +246,7 @@ schedule:
 - week: 11
   day: 5
   lecture: "SQL"
-  slides:
+  slides: Lec21
   screencast: 
   readings:
   - text: SQLite Syntax
