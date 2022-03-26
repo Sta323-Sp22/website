@@ -247,7 +247,7 @@ schedule:
   day: 5
   lecture: "SQL"
   slides: Lec21
-  screencast: 
+  screencast: https://youtu.be/hF7x7Ykx740 
   readings:
   - text: SQLite Syntax
     link: https://www.sqlite.org/lang.html
