@@ -255,7 +255,15 @@ schedule:
     link: https://gist.github.com/mattmc3/38a85e6a4ca1093816c08d4815fbebfb
 
 
-
+- week: 12
+  day: 3
+  lecture: "Spatial data"
+  slides: Lec22
+  screencast: 
+  readings:
+  - text: "sf Vignettes"
+    link: https://cran.r-project.org/web/packages/sf/vignettes/
+  notes: 
 
 - week: 12
   day: 5
@@ -266,15 +274,7 @@ schedule:
   notes: 
 
 
-- week: 12
-  day: 3
-  lecture: "Spatial data"
-  slides: Lec22
-  screencast: 
-  readings:
-  - text: "sf Vignettes"
-    link: https://cran.r-project.org/web/packages/sf/vignettes/
-  notes: 
+
   
 - week: 13
   day: 3
