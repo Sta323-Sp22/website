@@ -267,8 +267,8 @@ schedule:
 
 - week: 12
   day: 5
-  lecture: "TBD"
-  slides:
+  lecture: "Bigish data"
+  slides: Lec23
   screencast: 
   readings:
   notes: 
