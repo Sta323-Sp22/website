@@ -280,7 +280,7 @@ schedule:
   day: 3
   lecture: "Tidy Models"
   screencast: 
-  slides:
+  slides: Lec24
   readings:
   - text: "Tidy Models - Get Started"
     link: https://www.tidymodels.org/start/
@@ -321,3 +321,7 @@ schedule:
   day: 3
   lecture: "TBD"
 
+
+- week: 16
+  day: 6
+  lecture: "<i>Final projects due</i>"
