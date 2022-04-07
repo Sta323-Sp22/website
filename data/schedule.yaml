@@ -279,7 +279,7 @@ schedule:
 - week: 13
   day: 3
   lecture: "Tidy Models"
-  screencast: 
+  screencast: https://youtu.be/mcjD2O82-8U
   slides: Lec24
   readings:
   - text: "Tidy Models - Get Started"
