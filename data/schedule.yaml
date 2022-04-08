@@ -290,8 +290,11 @@ schedule:
   day: 5
   lecture: "More Tidy Models"
   screencast: 
-  slides:
-  notes: 
+  slides: Lec25
+  readings:
+  - text: "Hotels case study"
+    link: https://www.tidymodels.org/start/case-study/
+  
 
 - week: 14
   day: 3
