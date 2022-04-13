@@ -289,7 +289,7 @@ schedule:
 - week: 13
   day: 5
   lecture: "More Tidy Models"
-  screencast: 
+  screencast: https://youtu.be/67HAy13P0yA
   slides: Lec25
   readings:
   - text: "Hotels case study"
