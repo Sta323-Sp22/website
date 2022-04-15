@@ -300,7 +300,7 @@ schedule:
   day: 3
   lecture: "R Packages"
   slides: Lec26
-  screencast: 
+  screencast: https://youtu.be/At0j15BQHls
   readings:
   - text: R Packages
     link: https://r-pkgs.org/
@@ -313,7 +313,7 @@ schedule:
 - week: 14
   day: 5
   lecture: "More R Packages"
-  slides:
+  slides: Lec27
   screencast: 
   readings:
   - text: testthat
@@ -322,7 +322,7 @@ schedule:
   
 - week: 15
   day: 3
-  lecture: "TBD"
+  lecture: "<i>No class</i> - Office hours"
 
 
 - week: 16
